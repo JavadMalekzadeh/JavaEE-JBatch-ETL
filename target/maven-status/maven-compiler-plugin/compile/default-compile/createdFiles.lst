@@ -1,0 +1,13 @@
+com\jmp\nightBatch\services\DataTransferService.class
+com\jmp\nightBatch\dao\MessageDao.class
+com\jmp\nightBatch\HibernateUtils.class
+com\jmp\nightBatch\Batch\DataTransferItemProcess.class
+com\jmp\nightBatch\Batch\DataTransferItemReader.class
+com\jmp\nightBatch\JAXRSConfiguration.class
+com\jmp\nightBatch\domain\Message.class
+com\jmp\nightBatch\services\DataTransferServiceImpl.class
+com\jmp\nightBatch\controllers\BatchController.class
+com\jmp\nightBatch\domain\RetryMessage.class
+com\jmp\nightBatch\jobs\DataTransferJob.class
+com\jmp\nightBatch\dao\MessageDaoImpl.class
+com\jmp\nightBatch\Batch\DataTransferItemWriter.class

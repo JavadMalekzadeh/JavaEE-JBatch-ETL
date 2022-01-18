@@ -1,0 +1,9 @@
+<job id="dataTransfer">
+    <step id="firstChunkStep" >
+        <chunk item-count="3">
+            <reader ref="com.jmp.nightBatch.Batch.DataTransferItemReader"/>
+            <processor ref="com.jmp.nightBatch.Batch.DataTransferItemProcess"/>
+            <writer ref="com.jmp.nightBatch.Batch.DataTransferItemWriter"/>
+        </chunk>
+    </step>
+</job>

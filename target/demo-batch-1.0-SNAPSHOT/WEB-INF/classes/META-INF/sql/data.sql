@@ -1,0 +1,5 @@
+insert into message(body,insertDate) values('hello me','2022-01-01')
+insert into message(body,insertDate) values('hello you','2022-01-01')
+insert into message(body,insertDate) values('hello her','2022-02-01')
+insert into message(body,insertDate) values('hello his','2022-01-01')
+insert into message(body,insertDate) values('hello them','2022-05-01')
