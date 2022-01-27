@@ -2,6 +2,7 @@
 This is a simple ETL Batch processing to extract data, here are messages, stored in a table. transform them into a new object, then insert them in another table. Used technologies :
 - JavaEE 8
 - JBatch 
+- Quartz as scheduler
 - MySql database
 - WildFly application server   
 
